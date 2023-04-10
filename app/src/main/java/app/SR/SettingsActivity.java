@@ -18,6 +18,9 @@ public class SettingsActivity extends AppCompatActivity implements AdapterView.O
     private ArrayList<String> schools;
 
     public SettingsActivity(){
+        locations = new ArrayList<>();
+        schools = new ArrayList<>();
+
         locations.add("Cupertino");
         locations.add("San Jose");
         locations.add("San Francisco");

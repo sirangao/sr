@@ -5,4 +5,8 @@
     <string name="continue_button">Continue</string>
     <string name="select_city">Select City</string>
     <string name="select_school">Select School</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_home_page">HomePageActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
 </resources>
